@@ -98,13 +98,13 @@ XSETm test-depends...|post
 `:test-depends:^
 XSETm END
 
-XPT _feature-id
+XPT _feature-id hidden
 `feature ID^
 
-XPT _dependency
+XPT _dependency hidden
 `EXTENSIONNAME^ `VERSION^
 
-XPT _lib
+XPT _lib hidden
 `LIB^
 
 XPT author
